@@ -40,7 +40,8 @@ const originalFeatured = [
 
 const bannerImages = [
   require('../(tabs)/image0.png'),
-  // Add more images if needed
+  require('../(tabs)/image1.png'),
+  require('../(tabs)/image2.png')
 ];
 
 export default function HomeScreen() {
